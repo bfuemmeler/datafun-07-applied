@@ -28,4 +28,10 @@ seaborn
 scipy
 
 ```
+# run to install into requirements.txt
+python -m pip install -r requirements.txt
+
+# run to update into requirements.txt
+python -m pip install <package_name>
+
 

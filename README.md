@@ -19,13 +19,23 @@ python -m venv .venv
 ## Install Packages into requirements.txt
 # copy & paste into .txt file
 ```
+beautifulsoup4
+dweepy
+geopy
+imageio
+ipykernel
 jupyterlab
+matplotlib
+nltk
 numpy
 pandas
-pyarrow
-matplotlib
-seaborn
+prospector
+scikit-learn
 scipy
+seaborn
+spacy
+textatistic
+textblob
 
 ```
 # run to install into requirements.txt
